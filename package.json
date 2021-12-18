@@ -10,8 +10,12 @@
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
   },
   "dependencies": {
+    "fbjs": "^3.0.2",
     "react": "17.0.2",
-    "react-native": "0.66.4"
+    "react-native": "0.66.4",
+    "react-native-blob-util": "^0.13.18",
+    "react-native-document-picker": "^7.1.2",
+    "react-native-pdf": "^6.4.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
